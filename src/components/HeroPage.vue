@@ -6,14 +6,14 @@ const isBtnDisabled = false;
 </script>
 <template>
   <nav class="grid grid-cols-[auto_auto_auto] justify-between px-5 py-2 font-[Poppins]">
-    <h1 class="font-bold text-4xl">{{ logo }}</h1>
+    <h1 class="font-bold text-4xl transition-transform hover:rotate-360 duration-300 ease-in-out">{{ logo }}</h1>
     <div class="flex gap-4 items-center">
-      <a href="">Home</a>
-      <a href="">About Us</a>
-      <a href="">Pages</a>
-      <a href="">Service</a>
-      <a href="">Blog</a>
-      <a href="">Contacts Us</a>
+      <a href="" class="hover:text-orange-600 transition duration-300 ease-in-out">Home</a>
+      <a href="" class="hover:text-orange-600 transition duration-300 ease-in-out">About Us</a>
+      <a href="" class="hover:text-orange-600 transition duration-300 ease-in-out">Pages</a>
+      <a href="" class="hover:text-orange-600 transition duration-300 ease-in-out">Service</a>
+      <a href="" class="hover:text-orange-600 transition duration-300 ease-in-out">Blog</a>
+      <a href="" class="hover:text-orange-600 transition duration-300 ease-in-out">Contacts Us</a>
     </div>
     <button :disabled="isBtnDisabled"
       class="flex items-center text-white bg-orange-500 p-2 rounded-md hover:bg-orange-400 hover:cursor-pointer disabled:bg-orange-300">

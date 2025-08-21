@@ -15,7 +15,7 @@
         <details
           class="bg-slate-100 open:bg-orange-500 open:text-white px-4 py-3 rounded-sm  transition-colors duration-300 ease-in-out">
           <summary class="list-none flex justify-between cursor-pointer items-center">
-            <span class="font-bold text-2xl">Our Mission</span>
+            <span class="font-bold text-lg">Our Mission</span>
             <AppIcon class="transition-transform duration-300" icon="ri:arrow-down-s-line" width="24" height="24" />
           </summary>
           <div class="p-1">
@@ -27,7 +27,7 @@
         <details
           class="bg-slate-100 open:bg-orange-500 open:text-white px-4 py-3 rounded-sm  transition-colors duration-300 ease-in-out">
           <summary class="list-none flex justify-between cursor-pointer items-center">
-            <span class="font-bold text-2xl">Our Vision</span>
+            <span class="font-bold text-lg">Our Vision</span>
             <AppIcon class="transition-transform duration-300" icon="ri:arrow-down-s-line" width="24" height="24" />
           </summary>
           <div class="p-1">
@@ -39,7 +39,7 @@
         <details
           class="bg-slate-100 open:bg-orange-500 open:text-white px-4 py-3 rounded-sm  transition-colors duration-300 ease-in-out">
           <summary class="list-none flex justify-between cursor-pointer items-center">
-            <span class="font-bold text-2xl">Our Value</span>
+            <span class="font-bold text-lg">Our Value</span>
             <AppIcon class="transition-transform duration-300" icon="ri:arrow-down-s-line" width="24" height="24" />
           </summary>
           <div class="p-1">
