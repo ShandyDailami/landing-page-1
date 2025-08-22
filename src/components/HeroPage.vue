@@ -25,7 +25,7 @@ const isBtnDisabled = false;
       class="bg-[url(../assets/images/human.jpg)] px-[5%] py-[4%] bg-cover rounded-md bg-center h-[90vh] grid grid-cols-[auto] items-end justify-center">
       <div class="grid grid-cols-[60%_40%] p-5 bg-white rounded-md">
         <div class="flex flex-col">
-          <p class="text-sm"><span class="p-1 rounded-sm bg-orange-100 text-orange-600 inline-block">AFFORDABLE,
+          <p class="text-sm"><span class="p-1 rounded-sm bg-orange-100 text-orange-600">AFFORDABLE,
               RELIABLE, AND BUILT TO LAST</span></p>
           <h1 class="text-6xl font-bold">Strong Durable and Affordable Roofing</h1>
         </div>
